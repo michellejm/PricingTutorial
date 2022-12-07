@@ -1,0 +1,1 @@
+https://towardsdatascience.com/sales-forecasting-with-price-promotion-effects-b5d70207b128
